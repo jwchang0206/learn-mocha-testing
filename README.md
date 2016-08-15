@@ -1,5 +1,7 @@
 # Learn Mocha Testing
 
+[![Build Status](https://travis-ci.org/inspiredjw/learn-mocha-testing.svg?branch=master)](https://travis-ci.org/inspiredjw/learn-mocha-testing)
+
 Sample codes from the mocha tutorial posts in my blog
 
 <br>
